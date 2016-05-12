@@ -1,0 +1,6 @@
+/.vagrant
+/static
+*.pyc
+*.swp*
+*.swo*
+/opentrainer/settings/local.py
